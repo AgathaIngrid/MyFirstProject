@@ -1,0 +1,8 @@
+C:\Users\agath\source\repos\myFirtstProject\myFirtstProject\obj\Debug\myFirtstProject.csproj.AssemblyReference.cache
+C:\Users\agath\source\repos\myFirtstProject\myFirtstProject\obj\Debug\myFirtstProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\agath\source\repos\myFirtstProject\myFirtstProject\obj\Debug\myFirtstProject.csproj.CoreCompileInputs.cache
+C:\Users\agath\source\repos\myFirtstProject\myFirtstProject\bin\Debug\myFirtstProject.exe.config
+C:\Users\agath\source\repos\myFirtstProject\myFirtstProject\bin\Debug\myFirtstProject.exe
+C:\Users\agath\source\repos\myFirtstProject\myFirtstProject\bin\Debug\myFirtstProject.pdb
+C:\Users\agath\source\repos\myFirtstProject\myFirtstProject\obj\Debug\myFirtstProject.exe
+C:\Users\agath\source\repos\myFirtstProject\myFirtstProject\obj\Debug\myFirtstProject.pdb
