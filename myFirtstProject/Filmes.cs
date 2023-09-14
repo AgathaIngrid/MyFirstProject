@@ -6,10 +6,10 @@ public class Filme
 	public int Id;
 	public string Title;
 	public string Overwiu;
-	public float Vote_avarange;
+	 public float Vote_avarange;
 	public int Vote_count;
 	public string Poster_path;
-	//public int[] Genre_ids = new int[1];
+	public int[] Genre_ids = new int[1];
 
 
 

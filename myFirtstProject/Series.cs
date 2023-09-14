@@ -11,8 +11,8 @@ public class Serie
     public float Vote_averange;
     public int Vote_count;
     public string Poster_path;
-    //public int Genre_ids;
+    public int[] Genre_ids = new int[1];
 
-   
-	
+
+
 }
